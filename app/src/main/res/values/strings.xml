@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="go">my favourite top 3 restaurants</string>
+    <string name="my_favourite_top3_restaurants">my favourite</string>
+    <string name="count_distance">count</string>
+    <string name="contact_list">contact list</string>
+    <string name="current_location">current location</string>
+    <string name="navigate">Navigate</string>
+</resources>
